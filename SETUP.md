@@ -1,6 +1,6 @@
 # Kiruthik — Naruto/Ninja GitHub Profile
 
-1. Create a GitHub repository named exactly `kiruthik13` (same as your GitHub username).
+1. Create a GitHub repository named exactly `kiruthikbairavan66` (same as your GitHub username).
 2. Upload all files and folders from this directory to the repository root.
 3. Ensure `README.md` is in the root.
 4. In GitHub repository Settings → Actions → General, allow the workflow permissions needed to write repository contents if you want the contribution workflows to run.
